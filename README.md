@@ -16,4 +16,5 @@ Mini Frontend projects
 #3. Pacman animation
 ---
 ![](pacman/pacman.gif)
+
 I could not find source code of this project. Live demo: https://pacman-for-jasur.netlify.app
