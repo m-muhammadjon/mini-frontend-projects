@@ -12,3 +12,8 @@ Mini Frontend projects
 #2. 2D House (only html, css)
 ---
 ![](2d%20house/image.png)
+
+#3. Pacman animation
+---
+![](pacman/pacman.gif)
+I could not find source code of this project. Live demo: https://pacman-for-jasur.netlify.app
