@@ -38,3 +38,7 @@ I could not find source code oargif this project. Live demo: https://pacman-for-
 #8. Navbar Apple
 ---
 ![](Navbar%20apple/img.png)
+
+#9. Navbar Samsung
+---
+![](Navbar%20samsung/img.png)
