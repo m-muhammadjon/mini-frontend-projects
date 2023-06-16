@@ -34,3 +34,7 @@ I could not find source code oargif this project. Live demo: https://pacman-for-
 #7. Simple login page 2
 ---
 ![](Simple%20login%20page%202/img.png)
+
+#8. Navbar Apple
+---
+![](Navbar%20apple/img.png)

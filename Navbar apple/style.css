@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.brand{
+    width: 1.8%;
+    margin-top: 5px;
+    margin-bottom: -9px;
+}
+.search-logo{
+    width: 2.5%;
+    margin-bottom: -9px;;
+}
+.bag-logo{
+    width: 1.8%;
+    margin-bottom: -9px;
+}
+.navbar{
+    width: 100&;
+    background: #333333;
+    margin-top: -16px;
+    padding-bottom: 1px;
+}
+.nav-ul{
+    margin-left: 8.5rem;
+}
+.nav-item{
+    font-family: sans-serif;
+    list-style-type: none;
+    display: inline;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    
+}
+a{    
+    text-decoration: none;
+   color: #d7d7d7;
+}
