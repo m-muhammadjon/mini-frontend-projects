@@ -26,3 +26,11 @@ I could not find source code oargif this project. Live demo: https://pacman-for-
 #5. Box shadow
 ---
 ![](Box%20shadow/img.png)
+
+#6. Simple login page
+---
+![](Simple%20login%20page/img.png)
+
+#7. Simple login page 2
+---
+![](Simple%20login%20page%202/img.png)
